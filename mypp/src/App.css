@@ -1,0 +1,366 @@
+/*design of component devenir membre*/
+.icondes {
+  color: blue;
+  margin-top: 13px !important;
+  margin-left: 7px !important;
+}
+.desss {
+  color: blue !important;
+  font-size: 1em;
+  text-align: center;
+  margin-top: -15px;
+  display: flex !important;
+  font-family: xx- large;
+}
+.iconsstt {
+  margin-left: 500px !important;
+  display: block !important;
+  background-color: aqua;
+  height: 70px;
+  border-radius: 10px;
+  color: blue;
+  top: -50px;
+  bottom: -10px;
+}
+.design-form {
+  width: 35% !important;
+  margin-left: 500px !important;
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 0px !important;
+}
+.secon {
+  display: flex;
+  background-color: aquamarine;
+  height: 100vh !important;
+  padding-top: 20px;
+}
+.des-image {
+  position: absolute;
+  left: 12%;
+  right: 30%;
+  top: 25.9%;
+  bottom: -3.23%;
+  transform: rotate(-7.15deg);
+  background-image: transparent !important;
+  width: 30%;
+  margin-top: 0px;
+}
+.des-9raya {
+  position: absolute;
+  color: #ff3385;
+  left: 20%;
+}
+.create {
+  margin-left: 50px;
+}
+.orr {
+  position: absolute;
+  width: 50px;
+  height: 2px;
+  left: 742px;
+  top: 203px;
+  background: #000000;
+}
+.desor {
+  margin-left: 120px;
+  font-family: poppins;
+  margin-top: 30px;
+}
+.ort {
+  position: absolute;
+  width: 50px;
+  height: 2px;
+  left: 850px;
+  top: 203px;
+  background: #000000;
+}
+.mb-3 {
+  margin-top: 10px !important;
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+}
+.dessuiv {
+  margin-top: 10px;
+  margin-left: 150px;
+}
+
+/* design of component about us */
+.pageaprop {
+  background-color: black;
+  padding: 10px;
+  margin-top: 100px;
+  color: white;
+  width: 100vh;
+  display: flex;
+  background-size: 100%;
+}
+.desabout {
+  margin-left: 100px;
+  background-size: 100%;
+}
+/* design sidebar of component education */
+.sidebarr {
+  background-color: #b2b2b2;
+  color: black;
+  height: 100vh;
+  width: 15%;
+  font-size: x-large;
+  font-family: bold;
+}
+/*design of navbar of the psycologue*/
+.navpsy {
+  margin-left: 200px;
+}
+/* design of video of component solution of psycologue*/
+.desvideo {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  margin-left: 10px;
+}
+/* design of page for acceeuil*/
+.acceuil {
+  color: black;
+  margin-left: 200px;
+  margin-top: 100px;
+  font-size: bold;
+}
+.paragra {
+  font-size: x-large;
+  padding-top: 20px;
+}
+.iimmgg {
+  width: 100%;
+}
+.dodo {
+  position: absolute;
+  width: 500px;
+  height: 6px;
+  left: 27px;
+  top: 1070px;
+  background: #000000;
+}
+.ppaa {
+  position: absolute;
+  width: 100px;
+  height: 15px;
+  left: 530px;
+  top: 1065px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 15px;
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+.pointt {
+  position: absolute;
+  width: 550px;
+  height: 6px;
+  left: 750px;
+  top: 1070px;
+  background: #000000;
+}
+.divv {
+  display: flex;
+  padding: 100px;
+}
+.deshan {
+  position: absolute;
+  width: 20%;
+  margin-top: -100px;
+  height: 150px;
+}
+.desmomo {
+  position: absolute;
+  margin-left: 400px;
+  height: 150px;
+  width: 20%;
+  margin-top: -70px;
+}
+.desmeme {
+  position: absolute;
+  margin-left: 800px;
+  height: 150px;
+  margin-top: -70px;
+  width: 10%;
+}
+/* design navbar global */
+.navig {
+  background-color: #ccccb3;
+  border-radius: 10px;
+  display: flex !important;
+  position: relative !important;
+  height: 80px;
+  align-items: center;
+  top: 0px;
+}
+/* design component psyco of navbar */
+.desiconpsy {
+  color: blue;
+  margin-top: -5px !important;
+  position: relative;
+  bottom: -20px;
+  line-height: 100px;
+  font-size: 1.5em;
+  text-align: center;
+  transition: 0.1s;
+  left: -5px;
+}
+.iconpsy:hover {
+  background-color: aqua;
+  box-shadow: 0 0 100px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+  transition-delay: 0.1s;
+  border-radius: 10px;
+}
+.despsyyy {
+  color: blue !important;
+  margin-left: 5px;
+  margin-top: 15px;
+}
+.iconpsy {
+  display: flex !important;
+  margin-right: 15px;
+  position: relative;
+  list-style: none;
+  z-index: 1;
+  flex-direction: column;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  font-weight: 500;
+  opacity: 1;
+  transform: translateY(9px);
+}
+/* design of component education of navbar */
+.iconeduc {
+  display: flex !important;
+  margin-right: 15px;
+  position: relative;
+  list-style: none;
+  z-index: 1;
+  flex-direction: column;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  font-weight: 500;
+  opacity: 1;
+  transform: translateY(9px);
+}
+.desiconeduc {
+  color: blue;
+  margin-top: -5px !important;
+  position: relative;
+  bottom: -17px;
+  line-height: 100px;
+  font-size: 1.5em;
+  text-align: center;
+  transition: 0.1s;
+  left: -5px;
+}
+.iconeduc:hover {
+  background-color: aqua;
+  box-shadow: 0 0 100px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+  transition-delay: 0.1s;
+  border-radius: 10px;
+}
+.deseduc {
+  color: blue !important;
+  margin-left: 5px;
+  margin-top: 15px;
+}
+/* design of component art of component */
+.iconart {
+  display: flex !important;
+  margin-right: 15px;
+  position: relative;
+  list-style: none;
+  z-index: 1;
+  flex-direction: column;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  font-weight: 500;
+  opacity: 1;
+  transform: translateY(9px);
+}
+.desiconart {
+  color: blue;
+  margin-top: -5px !important;
+  position: relative;
+  bottom: -17px;
+  line-height: 100px;
+  font-size: 1.5em;
+  text-align: center;
+  transition: 0.1s;
+  left: -5px;
+}
+.iconart:hover {
+  background-color: aqua;
+  box-shadow: 0 0 100px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+  transition-delay: 0.1s;
+  border-radius: 10px;
+}
+.desart {
+  color: blue !important;
+  margin-left: 5px;
+  margin-top: 15px;
+}
+
+/* design of component about */
+.iconabout {
+  display: flex !important;
+  margin-right: 15px;
+  position: relative;
+  list-style: none;
+  z-index: 1;
+  flex-direction: column;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  font-weight: 500;
+  opacity: 1;
+  transform: translateY(9px);
+}
+.desiconabout {
+  color: blue;
+  margin-top: -5px !important;
+  position: relative;
+  bottom: -17px;
+  line-height: 100px;
+  font-size: 1.5em;
+  text-align: center;
+  transition: 0.1s;
+  left: -5px;
+}
+.iconabout:hover {
+  background-color: aqua;
+  box-shadow: 0 0 100px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+  transition-delay: 0.1s;
+  border-radius: 10px;
+}
+.desaprop {
+  color: blue !important;
+  margin-left: 5px;
+  margin-top: 15px;
+}
+
+/* design bouton about us  */
+.desh {
+  margin-top: 100px;
+  font-size: medium;
+  color: deeppink;
+}
+.desparagg {
+  margin-top: 200px;
+  font-size: medium;
+  padding: 20px;
+}
+.psycoldes {
+  background-image: url(https://image.shutterstock.com/image-vector/psychotherapy-psychology-help-depressive-disorders-260nw-1482503156.jpg) !important;
+background-size: 100vh;
+}
